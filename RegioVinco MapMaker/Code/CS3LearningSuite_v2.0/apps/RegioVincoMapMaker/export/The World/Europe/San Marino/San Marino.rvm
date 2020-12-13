@@ -1,0 +1,57 @@
+
+{
+    "name":"San Marino",
+    "subregions_have_capitals":false,
+    "subregions_have_flags":false,
+    "subregions_have_leaders":false,
+    "subregions":[
+        {
+            "name":"Acquaviva",
+            "red":202,
+            "green":202,
+            "blue":202
+        },
+        {
+            "name":"A",
+            "red":222,
+            "green":222,
+            "blue":222
+        },
+        {
+            "name":"B",
+            "red":54,
+            "green":54,
+            "blue":54
+        },
+        {
+            "name":"D",
+            "red":190,
+            "green":190,
+            "blue":190
+        },
+        {
+            "name":"H",
+            "red":132,
+            "green":132,
+            "blue":132
+        },
+        {
+            "name":"E",
+            "red":148,
+            "green":148,
+            "blue":148
+        },
+        {
+            "name":"F",
+            "red":72,
+            "green":72,
+            "blue":72
+        },
+        {
+            "name":"G",
+            "red":106,
+            "green":106,
+            "blue":106
+        }
+    ]
+}

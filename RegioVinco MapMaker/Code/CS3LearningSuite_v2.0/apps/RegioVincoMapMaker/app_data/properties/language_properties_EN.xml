@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file provides all the text to be used when the application
+    is to be displayed in English.
+-->
+<properties>
+    <property_list>
+
+        <!-- ENGLISH LANGUAGE SETTINGS FOR DESKTOP JAVA FRAMEWORK CONTROLS -->
+
+        <!-- WELCOME DIALOG TEXT -->
+        <property name="WELCOME_DIALOG_TITLE"               value="Welcome to the Regio Vinco Map Maker"></property>
+        <property name="WELCOME_DIALOG_RECENT_WORK_LABEL"   value="Recent Work"></property>
+        <property name="WELCOME_DIALOG_NEW_BUTTON_TEXT"  value="Create a New Map"></property>
+
+        <!-- GENERIC APP ERROR MESSAGES -->
+        <property name="APP_ERROR_TITLE"            value="Application Error"></property>
+        <property name="APP_ERROR_CONTENT"          value="An Error Occured in the Application"></property>
+
+        <!-- PROPERTIES ERROR MESSAGES -->
+        <property name="PROPERTIES_ERROR_TITLE"     value="Properties File Error"></property>
+        <property name="PROPERTIES_ERROR_CONTENT"   value="There was an Error Loading a Properties File"></property>
+
+        <!-- FILE TOOLBAR TOOLTIPS -->
+        <property name="NEW_BUTTON_TOOLTIP"         value="New Map"></property>
+        <property name="LOAD_BUTTON_TOOLTIP"        value="Load Map"></property>
+        <property name="CLOSE_BUTTON_TOOLTIP"       value="Close Map"></property>
+        <property name="SAVE_BUTTON_TOOLTIP"        value="Save Map"></property>
+        <property name="EXPORT_BUTTON_TOOLTIP"      value="Export Map"></property>
+        <property name="EXIT_BUTTON_TOOLTIP"        value="Exit"></property>
+
+        <!-- CLIPBOARD TOOLBAR TOOLTIPS -->
+        <property name="CUT_BUTTON_TOOLTIP"         value="Cut"></property>
+        <property name="COPY_BUTTON_TOOLTIP"        value="Copy"></property>
+        <property name="PASTE_BUTTON_TOOLTIP"       value="Paste"></property>
+
+        <!-- UNDO TOOLBAR TOOLTIPS -->
+        <property name="UNDO_BUTTON_TOOLTIP"        value="Undo"></property>
+        <property name="REDO_BUTTON_TOOLTIP"        value="Redo"></property>
+
+        <!-- HELP TOOLBAR TOOLTIPS -->
+        <property name="HELP_BUTTON_TOOLTIP"        value="Help"></property>
+        <property name="LANGUAGE_BUTTON_TOOLTIP"    value="Change Langauge"></property>
+        <property name="ABOUT_BUTTON_TOOLTIP"       value="About"></property>
+
+        <!-- NEW FEEDBACK DIALOGS -->	
+        <property name="NEW_SUCCESS_TITLE"      value="New Complete"></property>
+        <property name="NEW_SUCCESS_CONTENT"	value="Work Created but not yet Saved"></property>
+        <property name="NEW_ERROR_TITLE"        value="Warning: Error"></property>
+        <property name="NEW_ERROR_CONTENT"      value="An error occured creating New work."></property>
+
+        <!-- LOAD FEEDBACK DIALOGS -->
+        <property name="LOAD_WORK_TITLE"        value="Load Work"></property>
+        <property name="LOAD_SUCCESS_TITLE"     value="Load Complete"></property>
+        <property name="LOAD_SUCCESS_CONTENT"   value="The File has Loaded Successfully and can now be edited."></property>
+        <property name="LOAD_ERROR_TITLE"       value="Loading Error"></property>        
+        <property name="LOAD_ERROR_CONTENT"     value="Loading has Failed. Likely there is a File Formating problem."></property>
+
+        <!-- SAVE FEEDBACK DIALOGS -->
+        <property name="SAVE_WORK_TITLE"        value="Save Work"></property>
+        <property name="SAVE_SUCCESS_TITLE"     value="Save Complete"></property>
+        <property name="SAVE_SUCCESS_CONTENT"   value="The file is saved."></property>
+        <property name="SAVE_ERROR_TITLE"       value="Save Error"></property>
+        <property name="SAVE_ERROR_CONTENT"     value="Saving has Failed. Likely due to a file access problem."></property>
+        <property name="SAVE_VERIFY_TITLE"	value="Save unsaved work?"></property>
+        <property name="SAVE_VERIFY_CONTENT"	value="Would you like to save your unsaved work first?"></property>
+
+        <property name="EXPORT_WORK_TITLE" value="Export Work"></property>        
+        <property name="EXPORT_SUCCESS_TITLE" value="Export Complete"></property>
+        <property name="EXPORT_SUCCESS_CONTENT" value="The file is exported."></property>
+
+        <!-- ABOUT DIALOG -->
+        <property name="ABOUT_TITLE"            value="About Regio Vinco Map Maker"></property>
+        <property name="ABOUT_CONTENT"          value=""></property>
+
+        <!-- ENGLISH LANGUAGE SETTINGS SPECIFICALLY FOR RVMM CONTROLS -->
+        
+        <property name="RVMM_TOGGLE_MAP_LABEL_TEXT"       value="Toggle Frame"></property>
+        <property name="RVMM_MOVE_POLYGON_MODE_LABEL_TEXT"    value="Move Polygon Mode"></property>
+        
+        <property name="RVMM_CHANGE_BORDER_COLOR_LABEL_TEXT"       value="Border Color"></property>
+        <property name="RVMM_CHANGE_BORDER_THICKNESS_LABEL_TEXT"    value="Border Thickness"></property>
+        
+        <!-- LANGUAGE-DEPENDENT TEXT FOR WORKSPACE CONTROLS -->
+        <property name="RVMM_SUBREGION_COLUMN_TEXT"       value="Subregion"></property>
+        <property name="RVMM_CAPITAL_COLUMN_TEXT"    value="Capital"></property>
+        <property name="RVMM_LEADER_COLUMN_TEXT"     value="Leader"></property>
+        <property name="RVMM_GRADIENT_LABEL_TEXT"     value="Background Gradient"></property>
+        <property name="RVMM_FOCUS_ANGLE_LABEL_TEXT"     value="Focus Angle"></property>
+        <property name="RVMM_RADIUS_LABEL_TEXT"     value="Radius"></property>
+        <property name="RVMM_CENTER_X_LABEL_TEXT"     value="Center X"></property>
+        <property name="RVMM_FOCUS_DISTENCE_LABEL_TEXT"     value="Focus Distance"></property>
+        <property name="RVMM_CENTER_Y_LABEL_TEXT"     value="Center Y"></property>
+        <property name="RVMM_PROPORTIONAL_LABEL_TEXT"     value="Proportional"></property>
+        <property name="RVMM_STOP_0_COLOR_LABEL_TEXT"     value="Stop 0 Color"></property>
+        <property name="RVMM_CYCLE_METHOD_LABEL_TEXT"     value="Cycle Method"></property>
+        <property name="RVMM_STOP_1_COLOR_LABEL_TEXT"     value="Stop 1 Color"></property>
+        
+        
+        <!-- LANGUAGE-DEPENDENT TEXT FOR DIALOG CONTROLS -->        
+        <property name="RVMM_NEW_MAP_DIALOG_HEADER_TEXT"                 value="Create New Map"></property>
+        <property name="RVMM_NEW_MAP_DIALOG_REGION_TEXT"                 value="Region Name"></property>  
+        <property name="RVMM_NEW_MAP_DIALOG_DEFAULT_DATA_TEXT"           value="Data File Not Chosen"></property>
+        <property name="RVMM_NEW_MAP_DIALOG_DEFAULT_PARENT_TEXT"         value="Parent Region Directory Not Chosen"></property>
+       
+        <property name="RVMM_CHANGE_DIMENSION_DIALOG_HEADER_TEXT"        value="Change Map Dimensions"></property>
+        <property name="RVMM_CHANGE_DIMENSION_DIALOG_HEIGHT_TEXT"        value="Height"></property>
+        <property name="RVMM_CHANGE_DIMENSION_DIALOG_WIDTH_TEXT"        value="Width"></property>
+        
+        <property name="RVMM_CHANGE_DIMENSION_DIALOG_HEADER_TEXT"        value="Change Map Dimensions"></property>
+        <property name="RVMM_CHANGE_DIMENSION_DIALOG_HEIGHT_TEXT"        value="Height"></property>
+        <property name="RVMM_CHANGE_DIMENSION_DIALOG_WIDTH_TEXT"        value="Width"></property>      
+        
+        <property name="RVMM_SUBREGION_DIALOG_HEADER_TEXT"               value="View/Edit Subregion"></property>
+        <property name="RVMM_SUBREGION_DIALOG_SUBREGION_TEXT"               value="Subregion Name"></property>
+        <property name="RVMM_SUBREGION_DIALOG_CAPITAL_TEXT"               value="Capital"></property>
+        <property name="RVMM_SUBREGION_DIALOG_LEADER_TEXT"               value="Leader's Name"></property>
+        <property name="RVMM_SUBREGION_DIALOG_FLAG_TEXT"               value="Flag"></property>
+        
+        <property name="RVMM_CHANGE_MAP_NAME_TITLE_TEXT"              value="Change Map Name"></property>
+        <property name="RVMM_CHANGE_MAP_NAME_CONTENT_TEXT"              value="New Map Name"></property>                               
+       
+        <property name="RVMM_CHANGE_POLYGON_SELECT_SUBREGION_TITLE_TEXT"            value="Choose Subregion"></property>
+        <property name="RVMM_CHANGE_POLYGON_SELECT_SUBREGION_CONTENT_TEXT"          value="Select a Subregion to move the polygon"></property>  
+        <property name="RVMM_CHANGE_POLYGON_TITLE_TEXT"              value="Change Polygon's Subregion"></property>
+        <property name="RVMM_CHANGE_POLYGON_CONTENT_TEXT"            value="Are you sure to move the polygon to the new subregion?"></property>                          
+                                                                                                                                     
+        <!-- TO SWITCH BACK TO ANOTHER LANGUAGE -->
+        <property name="LANGUAGE_DIALOG_TITLE"          value="App Language Selection"></property>
+        <property name="LANGUAGE_DIALOG_HEADER_TEXT"    value="Choose a Language"></property>
+        <property name="LANGUAGE_DIALOG_CONTENT_TEXT"   value="Select a Language for the User Interface."></property>
+
+        <property name="WORK_FILE_EXT"          value="rvmm"></property>
+	<property name="WORK_FILE_EXT_DESC"     value="Regio Vinco Map Maker Files"></property>
+        <property name="CYCLE_METHOD_DEFAULT" value="NO_CYCLE"></property>
+
+    </property_list>
+    
+    <!-- TDLM COMBO BOX CHOICES -->
+    <property_options_list>
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>English</option>
+        </property_options>
+        <property_options name="CYCLE_METHOD_OPTIONS">
+            <option>NO_CYCLE</option>
+            <option>REFLECT</option>
+            <option>REPEAT</option>
+        </property_options>
+    </property_options_list>
+</properties>
